@@ -4,7 +4,6 @@
 <h4>Quero/estou aprender/aprendendo sobre:</h4>
 <ul><li>C</li>
   <li>Html</li>
-  <li>Java</li>
   <li>Css</li>
 </ul>
 <p>É isto pessoal.</p>
